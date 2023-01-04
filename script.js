@@ -12,7 +12,7 @@ function toggleMode() {
     img.setAttribute("alt", "Imagem light de Caio Takahata")
   } else {
     //se tiver light mode, adicionar a imagem light
-    img.setAttribute("src", "./assets/avatar.png")
+    img.setAttribute("src", "./assets/Avatar.png")
     img.setAttribute("alt", "Imagem de Caio Takahata")
   }
 }
